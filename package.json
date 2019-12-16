@@ -45,7 +45,7 @@
     "semantic-ui-react": "^0.88.2",
     "smooth-scroll": "^16.1.0",
     "styled-components": "^4.4.1",
-    "theme-ui": "^0.2.49",
+    "theme-ui": "^0.2.49"
   },
   "devDependencies": {
     "@percy/cypress": "^2.2.0",
@@ -65,7 +65,7 @@
     "identity-obj-proxy": "^3.0.0",
     "prettier": "^1.19.1",
     "tailwindcss": "^1.1.4",
-    "typescript": "^3.7.3",
+    "typescript": "^3.7.3"
   },
   "keywords": [
     "gatsby"
