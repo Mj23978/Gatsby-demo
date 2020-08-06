@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/my_project",
+  pathPrefix: "/Gatsby-Demo",
   plugins: [
     {
       resolve: `gatsby-theme-codebushi`,
