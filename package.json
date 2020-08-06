@@ -6,11 +6,13 @@
   "author": "Flutensor",
   "scripts": {
     "develop": "gatsby develop",
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.18.18",
     "gatsby-theme-codebushi": "1.0.0",
+    "gh-pages": "^3.1.0",
     "react": "^16.12.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.12.0"

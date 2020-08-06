@@ -1,3 +1,5 @@
+configs
+
 .env.production
 .env.development
 
