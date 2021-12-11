@@ -1,4 +1,4 @@
-# Portfoloi [Old]
+# Portfolio [Old]
 
 This is an experimental starter for my prevoiuse portfolio built with Gatsby 
 
