@@ -2,6 +2,10 @@
 
 This is an experimental starter for my prevoiuse portfolio built with Gatsby 
 
+<table>
+  <tr><td><img src = "public/screenshot.png"></td></tr>
+ </table>
+ 
 ## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
