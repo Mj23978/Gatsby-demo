@@ -3,7 +3,7 @@
 This is an experimental starter for my prevoiuse portfolio built with Gatsby 
 
 <table>
-  <tr><td><img src = "public/screenshot.png"></td></tr>
+  <tr><td><img src = "public/Screenshot .png"></td></tr>
  </table>
  
 ## Installation
